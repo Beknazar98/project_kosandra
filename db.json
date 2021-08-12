@@ -1,0 +1,49 @@
+{
+  "products": [
+    {
+      "title": "HP OMEN",
+      "description": "sdfgrthjukl",
+      "price": "60000",
+      "author": "",
+      "discount": "10",
+      "phone": "",
+      "category": "128",
+      "image": "https://litech.kg/storage/products/September2020/fq5Vn5HjrVnoIoRXKO1v.jpg",
+      "countInStock": "5",
+      "storeAddress": "",
+      "id": 1
+    },
+    {
+      "title": "bxcvxcv 14",
+      "description": "efsdsdf",
+      "price": "33333",
+      "image": "https://lh3.googleusercontent.com/proxy/9beEDmcBBUCYQhNW228W1Ush1NP6LYM_78C-V396hkOYX8BOaCmghjAmuMQ5Mln8M89VgVffyYq8xE8mfG7R310YWig8eZJg6cA",
+      "countInStock": "12",
+      "id": 8
+    },
+    {
+      "title": "HP",
+      "description": "fgdgfdhgjgj",
+      "price": "1000",
+      "image": "https://www.notebookcheck-ru.com/fileadmin/Notebooks/News/_nc3/csm_Nitro_5_AN515_54Left_AN517_51Right_73bb8b4f40.jpg",
+      "countInStock": "1",
+      "id": 11
+    },
+    {
+      "title": "dghxgxv",
+      "description": "fxbcbxvc",
+      "price": "32432",
+      "image": "https://static8.depositphotos.com/1338574/829/i/600/depositphotos_8299228-stock-photo-laptop-with-blue-graphics.jpg",
+      "countInStock": "4",
+      "id": 13
+    },
+    {
+      "title": "fgxfggfxg",
+      "description": "dfgdgd",
+      "price": "4334",
+      "image": "https://static8.depositphotos.com/1338574/829/i/600/depositphotos_8299228-stock-photo-laptop-with-blue-graphics.jpg",
+      "countInStock": "4",
+      "id": 14
+    }
+  ]
+}
